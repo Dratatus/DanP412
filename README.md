@@ -14,4 +14,3 @@ Welcome to my GitHub profile! I'm a programming enthusiast based in Krakow, curr
 🎸 Passions: Beyond Coding: I have a passion for playing classical guitar, being a self-taught learner. I'm also fascinated by cars, especially the SAAB brand. I am intrigued by their history and innovative solutions.
 
 Thank you for visiting my profile. I look forward to collaborating and sharing experiences with the GitHub community!
--->
