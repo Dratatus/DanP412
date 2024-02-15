@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a programming enthusiast based in Krakow, curr
 
 🚀 Professional Goal: My current goal is to master front-end skills to become a more versatile programmer.
 
-📫 Contact: The best way to reach me is through LinkedIn.
+📫 Contact: The best way to reach me is through LinkedIn. 
 
 🎸 Passions: Beyond Coding: I have a passion for playing classical guitar, being a self-taught learner. I'm also fascinated by cars, especially the SAAB brand. I am intrigued by their history and innovative solutions.
 
