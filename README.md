@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a programming enthusiast based in Krakow, curr
 
 🔭 Current Projects: I'm working on a Car-rental project, developed in TypeScript and React. This is an exciting challenge for me as I transition from my main programming language, .NET, to new technologies.
 
-🌱 Learning and Development: I'm in the process of learning React and TypeScript. In the future, I also plan to dive into Ruby. I'm always looking to broaden my horizons and skills in the programming field.
+🌱 Learning and Development: I'm in the process of learning React and JavaScript. In the future, I also plan to dive into Ruby. I'm always looking to broaden my horizons and skills in the programming field.
 
 👨‍💻 Career: After a two-month internship, I'm seeking employment opportunities as a Junior Developer in the .NET area.
 
