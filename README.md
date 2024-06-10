@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a programming enthusiast based in Krakow, curr
 
 🌱 Learning and Development: I'm in the process of learning React and JavaScript. In the future, I also plan to dive into Ruby. I'm always looking to broaden my horizons and skills in the programming field.
 
-👨‍💻 Career: After a two-month internship, I'm seeking employment opportunities as a Junior Developer in the .NET area.
+👨‍💻 Career: Junior Data Sciencist in Alchemia Labs
 
 🚀 Professional Goal: My current goal is to master front-end skills to become a more versatile programmer.
 
